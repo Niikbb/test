@@ -52,7 +52,8 @@ Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/touhou01.jpg",
 	"backgrounds/images/touhou02.jpg",
-	"backgrounds/images/touhou03.jpg"
+	"backgrounds/images/touhou03.jpg",
+	"backgrounds/images/maxresdefault.jpg"
 ];
 
 /*Random background images order?*/
