@@ -69,9 +69,6 @@ Image background fade velocity
 in milliseconds*/
 var l_bgImageFadeVelocity = 2000;
 
-/*Enable background overlay?*/
-var l_bgOverlay = true;
-
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
 var l_bgDarkening = 25;
@@ -100,7 +97,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 20;
+var l_musicVolume = 35;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
