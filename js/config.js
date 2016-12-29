@@ -89,7 +89,8 @@ var l_musicPlaylist = [
 	{youtube: "YnopHCL1Jk8", name: "O-Zone - Dragostea Din Tei"},
 	{youtube: "JS7S2dVPjXU", name: "Mattafix - Big City Life"},
 	{youtube: "KlujizeNNQM", name: "Snoop Dogg - Smoke Weed Everyday"},
-	{youtube: "JU9TouRnO84", name: "Rick Ross - Hustlin'"}
+	{youtube: "JU9TouRnO84", name: "Rick Ross - Hustlin'"},
+	{youtube: "WwoCsaJ5w4A", name: "DJ Striden – Level One"}
 ];
 
 /*Random music order?*/
