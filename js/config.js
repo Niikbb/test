@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Skill Play TTT [RUS] [BETA]";
+var l_serverName = "Niik' Minigames [RUS]";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -74,7 +74,7 @@ var l_bgOverlay = true;
 
 /*Background darkening amount
 0 for none (0%), 100 for pitch black (100%)*/
-var l_bgDarkening = 50;
+var l_bgDarkening = 25;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
@@ -88,7 +88,11 @@ Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "YXYYCFaUUHQ", name: "Noisestorm - Heist"},
 	{youtube: "YnwsMEabmSo", name: "Marshmello - Alone"},
-	{youtube: "QMokMQ8Bu7Y", name: "Pegboard Nerds & Tristam - Razor Sharp"}
+	{youtube: "QMokMQ8Bu7Y", name: "Pegboard Nerds & Tristam - Razor Sharp"},
+	{youtube: "YnopHCL1Jk8", name: "O-Zone - Dragostea Din Tei"},
+	{youtube: "JS7S2dVPjXU", name: "Mattafix - Big City Life"},
+	{youtube: "KlujizeNNQM", name: "Snoop Dogg - Smoke Weed Everyday"},
+	{youtube: "JU9TouRnO84", name: "Rick Ross - Hustlin'"}
 ];
 
 /*Random music order?*/
@@ -96,7 +100,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 50;
+var l_musicVolume = 20;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -104,7 +108,8 @@ var l_messagesEnabled = true;
 /*Enter your custom messages below*/
 var l_messages = [
 "Удачной вам игры!",
-"Спасибо за то, что вы с нами!"
+"Спасибо за то, что вы с нами!",
+"В данный момент грузятся аддоны, подождите..."
 ];
 
 /*Random message order?*/
